@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MonitoringPortal-SPA"
+    }
+  },
+  "defaultProject": "MonitoringPortal-SPA",
+  "cli": {
+    "analytics": false
+  }
 }
